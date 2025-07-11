@@ -1,7 +1,7 @@
-#Online Store
+Online Store
 
-This is a Sample ios application build with SwiftUI.
+This is a sample iOS application built with SwiftUI.
 
-##Caching
+Caching
 
-used image caching inorder to reduce api call for image download
+used image caching to reduce api calls for image download
